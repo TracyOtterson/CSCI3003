@@ -158,29 +158,27 @@ for i in range(len(Greglist)):
     if Greg_dict['Chr'][i] == 10: 
         if Greg_dict['Bases'][i] == Lilly_dict['Bases'][i]:
             if (count == 0):
-                startindex = 0
+                startindex = i
                 count += 1
             else:
                 count += 1
         else:
-            endindex = (i - 1)
-            length = (Greglist[endindex] - Greglist[startindex]) +1
-    else:
-        continue
-    if maxlength < length:
-        maxstart = startindex
-        maxend = endindex
-        maxlength = length
-    else:
-        count = 0
-        
-        
-
-
-print('(',maxstart,',',maxend,')')
+            if count != 0:
+                endindex = (i - 1)
+                length = count
+                count = 0
+                if maxlength < length:
+                    maxstart = startindex
+                    maxend = endindex
+                    maxlength = length
+             
+print('(',Greglist[maxstart],',',Greglist[maxend],')')
 print(maxlength)      
+
+
+#Part D
     
-    
+
     
             
             
