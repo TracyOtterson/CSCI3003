@@ -1,0 +1,1798 @@
+SNP ID	Genotype	Description
+rs1048990	CC	 1.48x risk
+rs2143340	CC	 2x risk of dyslexia and poor reading performance
+rs10513025	CC	0.55x reduced risk for autism
+rs1321172	GG	1.08x risk
+rs12487066	CC	1.09x increased risk for multiple sclerosis
+rs10735781	CC	1.11x risk
+rs11164838	CC	1.11x risk
+rs13181	GG	1.12x increased risk for skin cancer
+rs10984447	AA	1.17x risk
+rs213950	AA	1.1x risk
+rs1805762	CC	1.23x risk for hypertension
+rs12044852	CC	1.24x risk
+rs17228212	CC	1.26x increased risk for heart disease
+rs1571801	AA	1.36x risk for prostate cancer
+rs1975197	TT	1.3x increased risk for restless legs syndrome
+rs12094543	AA	1.3x risk
+rs10239794	TT	1.3x risk for ALS
+rs1676486	AA	1.4x risk for LDH
+rs2230201	GG	1.4x risk of lupus
+rs11523871	CC	1.6x increased breast cancer risk for women over 60
+rs1143679	AA	1.78x increased risk for SLE
+rs12469063	AA	1.7x risk for restless legs
+rs2300478	GG	1.7x risk for restless legs
+rs10519262	AA	1.9x risk for AD
+rs2165241	TT	10x increased risk of exfoliation glaucoma
+rs17883192	CC	3x risk
+rs2075291	AA	4x higher risk for high triglyceride levels in Asians
+rs10498345	AA	0.5x decreased risk for coronary spasm
+rs1026732	AA	0.70x risk for restless legs
+rs11635424	AA	0.70x risk for restless legs
+rs12593813	AA	0.71x risk for restless legs
+rs11045585	GG	(no data; implied high chance of docetaxel-induced leukopenia/neutropenia)
+rs1042725	CT	~0.4cm taller
+rs1042725	CC	~0.8cm taller
+rs10757274	AG	~1.2x increased risk for heart disease
+rs1421085	CT	~1.3x increased obesity risk
+rs17817449	GT	~1.3x increased obesity risk
+rs10757274	GG	~1.3x increased risk for heart disease
+rs1169300	AG	~1.5x increased lung cancer risk
+rs2464196	CT	~1.5x increased lung cancer risk
+rs1421085	CC	~1.7x increased obesity risk
+rs17817449	GG	~1.7x increased obesity risk
+rs1954787	TT	~10% less likely to respond to citalopram
+rs1954787	CC	~10% more likely to respond to citalopram
+rs11200638	AA	~10x increased risk of wet age related macular degeneration
+rs12979860	TT	~20-25% of such hepatitis C patients respond to treatment
+rs12979860	CT	~20-40% of such hepatitis C patients respond to treatment
+rs13376333	TT	~2x higher risk of atrial fibrillation
+rs1169300	AA	~2x increased lung cancer risk
+rs2464196	TT	~2x increased lung cancer risk
+rs1361600	GG	~2x increased risk for adult-onset asthma in Japanese populations
+rs11260867	GG	~2x increased risk for cataracts
+rs2241524	TT	~2x increased risk for lupus and MPA
+rs11200638	AG	~2x increased risk of age related macular degeneration
+rs1265159	CT	~5x increased risk of psoriasis
+rs1805008	TT	~7-10x higher likelihood of red hair
+rs12979860	CC	~80% of such hepatitis C patients respond to treatment
+rs2308327	GG	0.10x decreased risk for lung cancer
+rs11209026	AA	0.26x lower risk for certain autoimmune diseases
+rs11209026	AG	0.26x lower risk for certain autoimmune diseases
+rs2266886	CT	0.26x reduced risk for Meniere's disease
+rs2266886	TT	0.26x reduced risk for Meniere's disease
+rs2243250	TT	0.33x decreased risk for myocardial infarction if younger than 50
+rs1334512	GG	0.37x decreased risk for severe malaria
+rs1056836	GG	0.3x decreased risk for prostate cancer
+rs10801935	CC	0.3x decreased risk of breast cancer
+rs2511989	AA	0.44x decreased age-related macular degeneration risk
+rs2230782	CC	0.45x reduced risk for breast cancer
+rs11809207	AG	0.46cm taller on average
+rs1049174	GG	0.48x reduced risk for colorectal cancer
+rs10513025	CT	0.55x reduced risk for autism
+rs1229984	AA	0.56x decreased risk of oral/throat cancers
+rs1229984	AG	0.56x decreased risk of oral/throat cancers
+rs2448490	AA	0.57x (reduced) risk for metastasis in LN-/ER+ breast cancer patients
+rs10794338	TT	0.57x reduced risk of squamous cell carcinoma of the head and neck
+rs10498345	AT	0.5x decreased risk for coronary spasm
+rs1800871	CC	0.5x decreased risk for endometriosis
+rs1800871	CT	0.5x decreased risk for endometriosis
+rs2306536	TT	0.5x lower risk of colorectal cancer
+rs1049550	CT	0.62x reduced risk for sarcoidosis
+rs1049550	TT	0.62x reduced risk for sarcoidosis
+rs2511989	AG	0.63x decreased age-related macular degeneration risk
+rs2308327	AG	0.67x decreased risk for lung cancer
+rs1573496	CG	0.68x decreased risk of oral/throat cancers
+rs1573496	GG	0.68x decreased risk of oral/throat cancers
+rs11465804	GG	0.68x lower risk for spondylitis
+rs11465804	GT	0.68x lower risk for spondylitis
+rs1001179	AA	0.6x decreased acoustic neuroma risk
+rs1001179	AG	0.6x decreased acoustic neuroma risk
+rs2241766	GT	0.6x decreased risk for breast cancer
+rs2243250	CT	0.6x decreased risk for myocardial infarction if younger than 50
+rs1026732	AG	0.70x risk for restless legs
+rs11635424	AG	0.70x risk for restless legs
+rs10050860	CT	0.71x lower risk for spondylitis
+rs10050860	TT	0.71x lower risk for spondylitis
+rs2287987	CC	0.71x lower risk for spondylitis
+rs2287987	CT	0.71x lower risk for spondylitis
+rs1063192	CC	0.71x reduced myocardial infarction risk
+rs1063192	CT	0.71x reduced myocardial infarction risk
+rs12593813	AG	0.71x risk for restless legs
+rs1992660	GG	0.72x decreased risk for Crohn's disease
+rs1800437	CG	0.72x risk for heart disease
+rs2305795	GG	0.75x risk of narcolepsy compared to (A;G) genotype
+rs1992662	TT	0.76x decreased risk for Crohn's disease
+rs17482078	CC	0.76x lower risk for spondylitis
+rs17482078	CT	0.76x lower risk for spondylitis
+rs1049174	CG	0.77x reduced risk for colorectal cancer
+rs1128535	AG	0.77x risk for Crohn's disease
+rs1128535	GG	0.77x risk for Crohn's disease
+rs2279420	CC	0.79x decreased risk for LOAD
+rs2279420	CT	0.79x decreased risk for LOAD
+rs2167270	AA	0.79x reduced risk for colon cancer
+rs12184413	TT	0.7x decreased risk for breast cancer
+rs2333227	TT	0.7x decreased risk for lung cancer among smokers; increased gastric cancer risk
+rs25487	AA	0.7x lower risk for skin cancer
+rs17672135	CT	0.7x risk
+rs1136410	CC	0.80x reduced risk for glioblastoma
+rs1136410	CT	0.80x reduced risk for glioblastoma
+rs10489629	AA	0.83x lower risk for spondylitis
+rs10489629	AG	0.83x lower risk for spondylitis
+rs10892759	AA	0.83x risk for Alzheimers
+rs11218350	TT	0.83x risk for Alzheimers
+rs11136000	CT	0.84x decreased risk for Alzheimer's disease
+rs11136000	TT	0.84x decreased risk for Alzheimer's disease
+rs1165205	AA	0.85x decreased gout risk
+rs1165205	AT	0.85x decreased gout risk
+rs1699103	GG	0.85x risk for Alzheimers
+rs1784931	CC	0.86x risk for Alzheimers
+rs1927911	CT	0.88x lower risk of nonfatal myocardial infarction
+rs1927911	TT	0.88x lower risk of nonfatal myocardial infarction
+rs1793004	GG	0.89x decreased risk for Crohn's disease
+rs2333227	CT	0.8x decreased risk for lung cancer among smokers; increased gastric cancer risk
+rs1343151	CT	0.8x lower risk for spondylitis
+rs1343151	TT	0.8x lower risk for spondylitis
+rs17166496	CG	0.8x risk
+rs1792113	GG	0.90x risk for Alzheimers
+rs2077119	GG	0.91x decreased risk for T2D
+rs2077119	GT	0.91x decreased risk for T2D
+rs11809207	AA	0.92cm taller on average
+rs1061646	CT	1.08x increased risk for breast cancer
+rs2297508	CG	1.08x increased risk for T2D
+rs2297508	GG	1.08x increased risk for T2D
+rs1321172	CG	1.08x risk
+rs12487066	CT	1.09x increased risk for multiple sclerosis
+rs12953717	CT	1.11x increased risk for colorectal cancer
+rs10735781	CG	1.11x risk
+rs11164838	CT	1.11x risk
+rs13387042	AG	1.12x increased risk for breast cancer
+rs13181	GT	1.12x increased risk for skin cancer
+rs1889018	CT	1.12x increased risk for T2D
+rs1889018	TT	1.12x increased risk for T2D
+rs10411210	TT	1.15x increased risk of colorectal cancer
+rs2278206	CC	1.16x increased risk for asthma
+rs1061646	CC	1.16x increased risk for breast cancer
+rs10984447	AG	1.17x risk
+rs2306402	CC	1.18x increased risk for LOAD
+rs2306402	CT	1.18x increased risk for LOAD
+rs2056116	AG	1.18x risk for breast cancer
+rs11868035	AA	1.19x increased risk for T2D
+rs11868035	AG	1.19x increased risk for T2D
+rs2268578	CT	1.1x increased breast cancer risk
+rs10008492	CT	1.1x increased risk for Non-hodgkin's lymphoma
+rs143383	CT	1.1x increased risk for osteoarthritis
+rs1344706	GT	1.1x increased risk for schizophrenia
+rs11622475	CT	1.1x risk
+rs129676	AG	1.1x risk
+rs17166496	CC	1.1x risk
+rs213950	AG	1.1x risk
+rs11200014	AG	1.20x risk for breast cancer
+rs1219648	AG	1.20x risk for breast cancer
+rs2420946	CT	1.20x risk for breast cancer
+rs1805762	CG	1.23x risk for hypertension
+rs1333040	CT	"1.24x increased myocardial infarction risk, 1.29x increased aneurysm risk"
+rs2254958	CT	1.24x increased risk for Alzheimer's
+rs13387042	AA	1.24x increased risk for breast cancer
+rs1881747	CC	1.24x increased risk for LOAD
+rs1881747	CT	1.24x increased risk for LOAD
+rs10507391	AT	1.24x increased stroke risk for males
+rs10507391	TT	1.24x increased stroke risk for males
+rs12044852	AC	1.24x risk
+rs17228212	CT	1.26x increased risk for heart disease
+rs1042838	GT	1.26x risk for ovarian cancer
+rs2515475	CT	1.27x increased ARDS risk in critically ill patients
+rs2515475	TT	1.27x increased ARDS risk in critically ill patients
+rs1859962	GG	1.28x increased risk for prostate cancer
+rs1434536	AG	1.29x increased breast cancer risk
+rs10865331	AG	1.2x higher risk for ankylosing spondylitis
+rs1835740	AG	1.2x higher risk for migraine
+rs1495965	AA	1.2x higher risk for spondylitis
+rs1495965	AG	1.2x higher risk for spondylitis
+rs10883365	AG	1.2x increased risk for Crohn's disease
+rs2237897	CT	1.2x increased risk for diabetic nephropathy in some populations
+rs1344706	TT	1.2x increased risk for schizophrenia
+rs10811661	CT	1.2x increased risk for type-2 diabetes
+rs10811661	TT	1.2x increased risk for type-2 diabetes
+rs1470579	AC	1.2x increased risk for type-2 diabetes
+rs1470579	CC	1.2x increased risk for type-2 diabetes
+rs1892534	AA	1.2x increased risk overall for cancers
+rs10993994	TT	1.2x prostate cancer risk
+rs10210302	CT	1.2x risk
+rs10761659	AG	1.2x risk
+rs12708716	AG	1.2x risk
+rs1344484	CT	1.2x risk
+rs10260404	CT	1.2x risk for ALS
+rs12037606	AG	1.2x risk of Crohn's disease
+rs2296336	CG	1.3.x risk
+rs10757272	CT	1.30x increased risk for Coronary artery disease
+rs2295490	AG	1.32x increased risk of early-onset type-2 diabetes
+rs2295490	GG	1.32x increased risk of early-onset type-2 diabetes
+rs10492972	CC	1.35x increased risk for multiple sclerosis
+rs10492972	CT	1.35x increased risk for multiple sclerosis
+rs1571801	AC	1.36x risk for prostate cancer
+rs10958409	AG	1.37x increased aneurysm risk
+rs12953717	CC	1.37x increased risk for colorectal cancer
+rs11209032	AA	1.3x higher risk for spondylitis
+rs11209032	AG	1.3x higher risk for spondylitis
+rs1143674	AA	1.3x increased autism risk
+rs1143674	AG	1.3x increased autism risk
+rs1333048	AC	1.3x increased coronary artery disease risk
+rs1801020	CT	1.3x increased heart disease risk
+rs1801020	TT	1.3x increased heart disease risk
+rs1076560	AC	1.3x increased risk for alcoholism
+rs144848	GG	1.3x increased risk for breast cancer
+rs13361189	CT	1.3x increased risk for Crohn's disease
+rs1360780	CT	1.3x increased risk for depression
+rs1360780	TT	1.3x increased risk for depression
+rs2156921	AG	1.3x increased risk for depression
+rs2156921	GG	1.3x increased risk for depression
+rs2267012	AA	1.3x increased risk for depression
+rs2267012	AG	1.3x increased risk for depression
+rs2267013	AA	1.3x increased risk for depression
+rs2267013	AG	1.3x increased risk for depression
+rs2267015	AA	1.3x increased risk for depression
+rs2267015	AT	1.3x increased risk for depression
+rs110419	AG	1.3x increased risk for neuroblastoma
+rs1799782	CT	1.3x increased risk for oral cancer among Asians
+rs10947262	CC	1.3x increased risk for osteoarthritis
+rs143383	TT	1.3x increased risk for osteoarthritis
+rs1047031	AA	1.3x increased risk for periodontitis
+rs1975197	CT	1.3x increased risk for restless legs syndrome
+rs1953126	CT	1.3x increased risk for rheumatoid arthritis
+rs1953126	TT	1.3x increased risk for rheumatoid arthritis
+rs16847548	CT	1.3x increased risk for sudden cardiac death in Caucasians
+rs1799884	AG	1.3x increased risk for T2D
+rs2059693	CT	1.3x increased risk for testicular cancer
+rs10754339	AG	1.3x increased risk of breast cancer
+rs1051730	CT	1.3x increased risk of lung cancer
+rs1042713	AG	1.3x increased risk that pediatric inhaler use may make asthma worse
+rs12255372	GT	1.3x increased type-2 diabetes risk
+rs10134944	TT	1.3x risk
+rs10982256	CT	1.3x risk
+rs11110912	CC	1.3x risk
+rs11110912	CG	1.3x risk
+rs11162922	AG	1.3x risk
+rs11171739	CT	1.3x risk
+rs12094543	AG	1.3x risk
+rs129676	AA	1.3x risk
+rs1375144	CT	1.3x risk
+rs1495377	CG	1.3x risk
+rs17221417	CG	1.3x risk
+rs17388568	AG	1.3x risk
+rs17672135	TT	1.3x risk
+rs17696736	AG	1.3x risk
+rs1937506	AG	1.3x risk
+rs2292239	AC	1.3x risk
+rs2398162	AA	1.3x risk
+rs2544677	CG	1.3x risk
+rs10239794	CT	1.3x risk for ALS
+rs2542151	GT	1.3x risk for Crohn's; 1.3x for T1D
+rs10757278	AG	1.3x risk for MI
+rs2305795	AA	1.3x risk of narcolepsy compared to (A;G) genotype
+rs2056116	AA	1.41x risk for breast cancer
+rs11718863	AT	1.43x increased osteoarthritis risk
+rs11718863	TT	1.43x increased osteoarthritis risk
+rs10754339	GG	1.45x increased risk of breast cancer
+rs2250889	CG	1.46x higher risk for lung cancer
+rs1048990	CG	1.48x risk
+rs10865331	AA	1.4x higher risk for ankylosing spondylitis
+rs16888589	AG	1.4x higher risk for colorectal cancer
+rs1801394	GG	1.4x higher risk for meningiomas
+rs1835740	AA	1.4x higher risk for migraine
+rs2046210	CT	1.4x increased breast cancer risk
+rs2275913	AG	1.4x increased gastric cancer risk
+rs140504	AA	1.4x increased risk for bipolar disorder
+rs140504	AG	1.4x increased risk for bipolar disorder
+rs1126497	CT	1.4x increased risk for breast cancer
+rs1126497	TT	1.4x increased risk for breast cancer
+rs2241880	CT	1.4x increased risk for Crohn's disease in Caucasians
+rs2237897	TT	1.4x increased risk for diabetic nephropathy in some populations
+rs2383206	AG	1.4x increased risk for heart disease
+rs1734787	AC	1.4x increased risk for lupus
+rs1734787	CC	1.4x increased risk for lupus
+rs1734791	AT	1.4x increased risk for lupus
+rs1734791	TT	1.4x increased risk for lupus
+rs1734792	AC	1.4x increased risk for lupus
+rs1734792	CC	1.4x increased risk for lupus
+rs17435	AT	1.4x increased risk for lupus
+rs17435	TT	1.4x increased risk for lupus
+rs10008492	TT	1.4x increased risk for Non-hodgkin's lymphoma
+rs1799782	TT	1.4x increased risk for oral cancer among Asians
+rs10090154	CT	1.4x increased risk for prostate cancer
+rs10090154	TT	1.4x increased risk for prostate cancer
+rs10818488	AG	1.4x increased risk for rheumatoid arthritis
+rs2004640	GT	1.4x increased risk for SLE
+rs2004640	TT	1.4x increased risk for SLE
+rs2230500	AA	1.4x increased risk for stroke
+rs2230500	AG	1.4x increased risk for stroke
+rs10033464	GG	1.4x increased risk of atrial fibrillation and ischemic stroke
+rs10033464	GT	1.4x increased risk of atrial fibrillation and ischemic stroke
+rs2200733	CT	1.4x increased risk of atrial fibrillation and ischemic stroke
+rs2200733	TT	1.4x increased risk of atrial fibrillation and ischemic stroke
+rs1447295	AC	1.4x increased risk of prostate cancer
+rs2280714	AA	1.4x increased risk of SLE
+rs2280714	AG	1.4x increased risk of SLE
+rs10134944	CT	1.4x risk
+rs11052552	GG	1.4x risk
+rs11805303	CT	1.4x risk
+rs1676486	AG	1.4x risk for LDH
+rs2104286	AG	1.4x risk for RA; 1.3x for T1D; also MS?
+rs1801028	CG	1.4x risk for schizophrenia
+rs2230201	AG	1.4x risk of lupus
+rs16260	AC	1.5-1.7x increased risk of prostate cancer
+rs241448	CT	1.51x increased risk for Alzheimer's
+rs1333040	TT	"1.52x increased myocardial infarction risk, 1.67x increased aneurysm risk"
+rs10757272	TT	1.54x increased risk for Coronary artery disease
+rs13376333	CT	1.5x higher risk of atrial fibrillation
+rs1333048	CC	1.5x increased coronary artery disease risk; 2x increased periodontitis risk
+rs2177369	CC	1.5x increased risk for Alzheimer's disease
+rs131690	AG	1.5x increased risk for bipolar disorder
+rs131690	GG	1.5x increased risk for bipolar disorder
+rs131702	GG	1.5x increased risk for bipolar disorder
+rs131702	GT	1.5x increased risk for bipolar disorder
+rs1800054	GG	1.5x increased risk for breast cancer
+rs1800056	CC	1.5x increased risk for breast cancer
+rs1800057	GG	1.5x increased risk for breast cancer
+rs1800058	TT	1.5x increased risk for breast cancer
+rs1333049	CG	1.5x increased risk for CAD
+rs2070600	AA	1.5x increased risk for gastric cancer
+rs2070600	AG	1.5x increased risk for gastric cancer
+rs16901979	AA	1.5x increased risk for prostate cancer
+rs16901979	AC	1.5x increased risk for prostate cancer
+rs2274223	AG	1.5x increased risk for stomach &amp; esophageal cancer (seen in Han Chinese)
+rs1867277	AG	1.5x increased risk for thyroid cancer
+rs2072797	CT	1.5x increased risk of Non-Hodgkin Lymphoma
+rs2072797	TT	1.5x increased risk of Non-Hodgkin Lymphoma
+rs1136287	CT	1.5x increased risk of wet ARMD
+rs1004819	CC	1.5x risk
+rs1004819	CT	1.5x risk
+rs10761659	AA	1.5x risk
+rs10982256	CC	1.5x risk
+rs11052552	GT	1.5x risk
+rs11622475	CC	1.5x risk
+rs1344484	TT	1.5x risk
+rs1495377	GG	1.5x risk
+rs17234657	GT	1.5x risk
+rs10889677	AA	1.5x risk for certain autoimmune diseases
+rs10889677	AC	1.5x risk for certain autoimmune diseases; 2x risk for Graves disease
+rs2201841	CC	1.5x risk for Crohn's disease
+rs2201841	CT	1.5x risk for Crohn's disease; 2x risk for Graves' disease
+rs1000113	CT	1.5x risk of Crohn's disease
+rs12037606	AA	1.5x risk of Crohn's disease
+rs2254958	CC	1.61x increased risk for Alzheimer's
+rs13293564	GG	1.63x increased nephropathy risk among type-1 diabetics
+rs11200014	AA	1.64x risk for breast cancer
+rs1219648	AA	1.64x risk for breast cancer
+rs2420946	TT	1.64x risk for breast cancer
+rs1271572	GT	1.65x increased risk only in men for myocardial infarction
+rs1271572	TT	1.65x increased risk only in men for myocardial infarction; 1.8x increased risk in females for ovarian cancer
+rs1121980	CT	1.67x risk for obesity
+rs2250889	CC	1.69x higher risk for lung cancer
+rs1047552	GG	1.6x higher atherosclerosis risk only in males
+rs1047552	GT	1.6x higher atherosclerosis risk only in males
+rs1057868	TT	1.6x higher overall CYP3A activity
+rs2227692	CT	1.6x higher risk for diffuse gastric cancer
+rs2227692	TT	1.6x higher risk for diffuse gastric cancer
+rs1858830	CG	1.6x increased autism risk
+rs11523871	AC	1.6x increased breast cancer risk for women over 60
+rs2046210	TT	1.6x increased breast cancer risk in certain women
+rs1800896	AG	1.6x increased prostate cancer risk
+rs10883365	AA	1.6x increased risk for Crohn's disease
+rs1537415	CG	1.6x increased risk for periodontitis
+rs2304256	AC	1.6x increased risk for SLE
+rs2304256	CC	1.6x increased risk for SLE
+rs2059693	TT	1.6x increased risk for testicular cancer
+rs12708716	AA	1.6x risk
+rs1375144	CC	1.6x risk
+rs17388568	AA	1.6x risk
+rs1937506	AA	1.6x risk
+rs2544677	GG	1.6x risk
+rs10260404	CC	1.6x risk for ALS
+rs10757278	GG	1.6x risk for MI
+rs2230199	CG	1.6x risk of ARMD
+rs2231142	AC	1.74x increased gout risk; gefinitib takers 4x more susceptible to diarrhea
+rs1010	AG	1.75x risk of MI
+rs1010	GG	1.75x risk of MI
+rs1143679	AG	1.78x increased risk for SLE
+rs10958409	AA	1.79x increased aneurysm risk
+rs2287622	CT	1.7x higher risk for intrahepatic cholestasis of pregnancy
+rs2076756	GG	1.7x increased risk for Crohn's disease
+rs2383206	GG	1.7x increased risk for heart disease
+rs1327328	TT	1.7x increased risk for multiple sclerosis
+rs10086908	CC	1.7x increased risk for prostate cancer
+rs10086908	CT	1.7x increased risk for prostate cancer
+rs1447295	AA	1.7x increased risk of prostate cancer
+rs1042713	AA	1.7x increased risk that pediatric inhaler use may make asthma worse
+rs10181656	CG	1.7x increased SLE risk
+rs10181656	GG	1.7x increased SLE risk
+rs11171739	CC	1.7x risk
+rs2292239	AA	1.7x risk
+rs211239	CC	1.7x risk for priapism in SCA patients
+rs211239	CT	1.7x risk for priapism in SCA patients
+rs2104286	AA	1.7x risk for RA; 1.6X for T1D; also MS?
+rs12469063	AG	1.7x risk for restless legs
+rs2300478	GT	1.7x risk for restless legs
+rs16890979	CT	1.7x risk of gout
+rs1501299	CC	1.8x higher breast cancer risk
+rs1554483	CG	1.8x higher risk for obesity if in haplotype
+rs1554483	GG	1.8x higher risk for obesity if in haplotype
+rs1800630	AA	1.8x increased lupus risk
+rs1800630	AC	1.8x increased lupus risk
+rs1800896	AA	1.8x increased prostate cancer risk
+rs1051730	TT	"1.8x increased risk of lung cancer; reduced response to alcohol, therefore possibly increased risk of alcohol abuse"
+rs10210302	TT	1.8x risk
+rs11805303	TT	1.8x risk
+rs2303067	AA	1.8x risk
+rs1434536	AA	1.94x increased breast cancer risk
+rs1154155	GT	1.94x increased risk for narcolepsy
+rs16888589	GG	1.9x higher risk for colorectal cancer
+rs2268578	TT	1.9x increased breast cancer risk
+rs1333049	CC	1.9x increased risk for CAD
+rs2274223	GG	1.9x increased risk for stomach &amp; esophageal cancer (seen in Han Chinese)
+rs2069442	GG	1.9x increased risk of Alzheimer's
+rs12304921	GG	1.9x risk
+rs17221417	GG	1.9x risk
+rs17696736	GG	1.9x risk
+rs10519262	AG	1.9x risk for AD
+rs1000113	TT	1.9x risk of Crohn's disease
+rs11881940	AT	1.9x risk of MI
+rs11881940	TT	1.9x risk of MI
+rs1800860	AA	10% smaller kidneys as newborns
+rs1800860	AG	10% smaller kidneys as newborns
+rs12402521	GG	1215 mmHg higher blood pressure when under stress
+rs10980705	CC	1x normal risk
+rs2077119	TT	1x normal risk
+rs12953717	TT	1x normal risk for colorectal cancer
+rs1111875	AA	1x normal risk of T2D
+rs10889677	CC	1x risk for certain autoimmune diseases; 2.3x risk for Graves disease
+rs241448	CC	2.14x increased risk for Alzheimer's
+rs1034428	CC	2.19x increased risk for schizophrenia in females
+rs1034428	CT	2.19x increased risk for schizophrenia in females
+rs10818488	AA	2.1x increased risk for rheumatoid arthritis
+rs1050152	CT	2.1x increased risk of Crohn's disease
+rs1050152	TT	2.1x increased risk of Crohn's disease
+rs2074190	CC	2.2x risk for AIA
+rs2074190	CT	2.2x risk for AIA
+rs10980705	CT	2.3x increased risk for knee osteoarthritis
+rs17234657	GG	2.3x risk
+rs2238135	GG	2.47x higher risk for prostate cancer
+rs11362	AG	2.4x increased risk for one form of Crohn's disease
+rs2201841	TT	2.4x risk for Graves' disease
+rs2107301	TT	2.5x higher risk for prostate cancer
+rs10895068	AA	2.5x increased odds of breast cancer among hormone-using postmenopausal women
+rs10895068	AG	2.5x increased odds of breast cancer among hormone-using postmenopausal women
+rs1154155	GG	2.5x increased risk for narcolepsy
+rs12304921	AG	2.5x risk
+rs1061170	CT	2.5x risk for AMD; higher mortality among nonagenarians
+rs13361189	CC	2.6x increased risk for Crohn's disease
+rs110419	AA	2.6x increased risk for neuroblastoma
+rs16847548	CC	2.6x increased risk for sudden cardiac death in Caucasians
+rs16260	AA	2.6x increased risk of prostate cancer
+rs2249358	AG	2.6x risk for priapism in SCA patients
+rs2249358	GG	2.6x risk for priapism in SCA patients
+rs1801516	AA	2.76x odds of pancreatic cancer
+rs1121980	CC	2.76x risk for obesity
+rs2290602	GT	2.7x increased risk for nonalcoholic fatty liver disease
+rs2290602	TT	2.7x increased risk for nonalcoholic fatty liver disease
+rs1799884	AA	2.7x increased risk for T2D
+rs10490924	GT	2.7x risk for age related macular degeneration
+rs2287622	CC	2.8x higher risk for intrahepatic cholestasis of pregnancy
+rs2296336	CC	2.9.x risk
+rs2231137	AG	2-3x increased risk for ischemic stroke
+rs2231137	GG	2-3x increased risk for ischemic stroke
+rs11045585	AA	24% chance (lower than average) of docetaxel-induced leukopenia/neutropenia
+rs1015362	AG	2-4x higher risk of sun sensitivity if part of risk haplotype
+rs1015362	GG	2-4x higher risk of sun sensitivity if part of risk haplotype
+rs2075650	AG	2x higher Alzheimer's risk
+rs12821256	CC	2x higher likelihood of blond hair
+rs25487	AG	2x higher risk for skin cancer
+rs25487	GG	2x higher risk for skin cancer
+rs1052133	GG	2x increased bladder cancer risk; 4.5x increased risk for gallbladder cancer
+rs11887534	CG	2x increased risk for gallstones
+rs1585215	AG	2x increased risk for Hodgkin lymphoma
+rs1329428	GG	2x increased risk for macular degeneration
+rs1537415	GG	2x increased risk for periodontitis
+rs10893081	CC	2x increased risk for severe atherosclerosis; 1.2x increased risk for ischemic heart disease
+rs1867277	AA	2x increased risk for thyroid cancer
+rs2180439	TT	2x increased risk of baldness
+rs10488631	CC	2x increased risk of SLE
+rs10488631	CT	2x increased risk of SLE
+rs11162922	AA	2x risk
+rs2542151	GG	2x risk for Crohn's; 1.6x for T1D
+rs2076530	AA	2x risk for sarcoidosis
+rs2476601	AG	"2x risk for T1D, RA, Addison's"
+rs1858830	CC	2x risk of autism
+rs2241880	CC	2x-3x increased risk for Crohn's disease in Caucasians
+rs1042838	TT	3.2x risk for ovarian cancer
+rs2230199	CC	3.2x risk of ARMD
+rs16890979	CC	3.4x risk of gout
+rs1695	GG	3.5x asthma risk in certain populations
+rs1585215	GG	3.5x increased risk for Hodgkin lymphoma
+rs2270641	GG	3.7x higher risk for schizophrenia
+rs10980705	TT	3.7x increased risk for knee osteoarthritis
+rs1136287	TT	3.9x increased risk of wet ARMD
+rs20417	CG	30% higher risk of diabetes
+rs1131532	TT	3-6x higher odds of worse outcomes in breast cancer patients
+rs2275913	AA	3x increased gastric cancer risk
+rs1570360	AA	3x risk
+rs1570360	AG	3x risk
+rs17883192	CG	3x risk
+rs12143842	CT	4.4ms QT interval duration increase on average
+rs2165241	CT	4.4x increased risk of exfoliation glaucoma
+rs25489	AA	4.68x higher risk for breast cancer
+rs2302009	GG	4.6x risk
+rs1535	AG	4+ IQ points for breastfeeding
+rs2075650	GG	4x higher Alzheimer's risk
+rs2075291	AC	4x higher risk for high triglyceride levels in Asians
+rs2145418	GT	5.0x increased thyroid cancer risk
+rs1061170	CC	5.9x risk for AMD; higher mortality among nonagenarians
+rs2032582	TT	6.7x risk
+rs11045585	AG	63% chance (higher than average) of docetaxel-induced leukopenia/neutropenia
+rs2011077	GG	"6x increased risk for prostate cancer, 3x increased BPH risk"
+rs11887534	CC	7x increased risk for gallstones
+rs10248420	AA	7x less likely to respond to certain antidepressants
+rs11983225	TT	7x less likely to respond to certain antidepressants
+rs12720067	GG	7x less likely to respond to certain antidepressants
+rs2032583	TT	7x less likely to respond to certain antidepressants
+rs2235015	TT	7x less likely to respond to certain antidepressants
+rs2235040	GG	7x less likely to respond to certain antidepressants
+rs2235067	GG	7x less likely to respond to certain antidepressants
+rs10248420	AG	7x more likely to respond to certain antidepressants
+rs10248420	GG	7x more likely to respond to certain antidepressants
+rs11983225	CC	7x more likely to respond to certain antidepressants
+rs11983225	CT	7x more likely to respond to certain antidepressants
+rs12720067	AA	7x more likely to respond to certain antidepressants
+rs12720067	AG	7x more likely to respond to certain antidepressants
+rs2032583	CC	7x more likely to respond to certain antidepressants
+rs2032583	CT	7x more likely to respond to certain antidepressants
+rs2235015	GG	7x more likely to respond to certain antidepressants
+rs2235015	GT	7x more likely to respond to certain antidepressants
+rs2235040	AA	7x more likely to respond to certain antidepressants
+rs2235040	AG	7x more likely to respond to certain antidepressants
+rs2235067	AA	7x more likely to respond to certain antidepressants
+rs2235067	AG	7x more likely to respond to certain antidepressants
+rs10490924	TT	8.2x risk for age related macular degeneration
+rs12143842	TT	8.8ms QT interval duration increase on average
+rs11650354	CC	8x risk for allergic asthma
+rs16947078	GG	8x risk for allergic asthma
+rs2145418	GG	9.2x increased thyroid cancer risk
+rs1080985	CC	a common variant
+rs1080985	CG	a common variant
+rs16947	AG	a common variant
+rs1800497	TT	"A1/A1 bupropion ineffective, diminished pleasure response; 2.4x increased risk for adenoma recurrence"
+rs1047781	TT	"ABH blood group ""Non-Secretor"" status if Japanese"
+rs1047781	AA	"ABH blood group ""Secretor"" status if Japanese"
+rs1047781	AT	"ABH blood group ""Secretor"" status if Japanese"
+rs12970134	AG	adult waist 0.9cm larger on average
+rs12970134	AA	adult waist 1.8cm larger on average
+rs10871777	AG	adults likely to be 0.22 BMI units higher
+rs17782313	CT	adults likely to be 0.22 BMI units higher
+rs10871777	AA	adults likely to be 0.44 BMI units higher
+rs17782313	CC	adults likely to be 0.44 BMI units higher
+rs2273697	AA	Adverse reaction more likely to carbamazepine in epileptic patients
+rs2273697	AG	Adverse reaction more likely to carbamazepine in epileptic patients
+rs1800454	AA	affected
+rs1800730	TT	affected by a  mild form of hemochromatosis
+rs2090409	GT	age at menarche ~1 month later on average
+rs2090409	GG	age at menarche ~2 months later on average
+rs16991615	AA	age at menopause increased by avg of 22 months
+rs2066702	CC	alcoholism risk for African-Americans
+rs1012729	AG	altered pediatric blood pressure
+rs1012729	GG	altered pediatric blood pressure
+rs1042173	TT	"among alcoholics, likely to be heavier drinkers"
+rs2293347	GG	"among NSCLC patients, better Gefitinib response"
+rs187116	CC	"among patients with gastric cancer, risk for more aggressive form?"
+rs187116	CT	"among patients with gastric cancer, risk for more aggressive form?"
+rs17602729	AA	AMPD1 deficiency
+rs17602729	AG	AMPD1 heterozygote
+rs17158558	TT	associated in just 1 case with Hirschsprung disease
+rs10468017	CT	associated with higher HDL cholesterol
+rs10468017	TT	associated with higher HDL cholesterol
+rs10503669	AA	associated with higher HDL cholesterol
+rs10503669	AC	associated with higher HDL cholesterol
+rs12678919	AG	associated with higher HDL cholesterol
+rs12678919	GG	associated with higher HDL cholesterol
+rs1864163	AG	associated with higher HDL cholesterol
+rs1864163	GG	associated with higher HDL cholesterol
+rs1414334	CC	associated with metabolic syndrome when taking antipsychotics
+rs1042602	AA	associated with the absence of freckles
+rs2187668	AA	"Autoimmune disorder risk (lupus, celiac disease) due to 2 HLA-DRB1*0301 alleles"
+rs10239794	CC	average
+rs10260404	TT	average
+rs1048661	TT	average
+rs10519262	GG	average
+rs10868366	GG	average
+rs1121980	TT	average
+rs1328674	GG	average
+rs1334710	AA	average
+rs1571801	CC	average
+rs1800437	CC	average
+rs1800437	GG	average
+rs1805762	GG	average
+rs2073711	TT	average
+rs2187668	GG	average
+rs2240340	GG	average
+rs2306536	CC	average
+rs1042725	TT	Average height
+rs10494366	GT	average QT interval
+rs10918594	CG	average QT interval
+rs1799990	AA	better long-term memory?
+rs1799990	AG	better long-term memory?
+rs242941	GG	better response to inhaled corticosteroid in patients with COPD
+rs1129038	GG	blue eye color
+rs11631797	GG	blue eye color if part of blue eye color haplotype
+rs12593929	GG	blue eye color if part of blue eye color haplotype
+rs2238289	TT	blue eye color if part of blue eye color haplotype
+rs2240203	GG	blue eye color if part of blue eye color haplotype
+rs12913832	GG	"blue eye color, 99% of the time"
+rs1800407	GG	blue/gray eyes more possible
+rs1800401	CC	blue/gray eyes possible
+rs1129038	AA	brown eye color
+rs1129038	AG	brown eye color
+rs12593929	AA	brown eye color
+rs12593929	AG	brown eye color
+rs12913832	AG	brown eye color
+rs12913832	AA	"brown eye color, 80% of the time"
+rs1800401	CT	brown/black eyes more likely
+rs1800401	TT	brown/black eyes more likely
+rs1800497	CT	bupropion ineffective
+rs10246939	CC	can taste bitter
+rs10246939	CT	can taste bitter
+rs1726866	CC	can taste bitter
+rs1726866	CT	can taste bitter
+rs12948217	AA	Canavan disease
+rs2070744	TT	cardiovascular differences
+rs1800454	AG	carrier
+rs1800730	AT	carrier for a mild form of hemochromatosis
+rs12948217	AC	carrier for Canavan disease
+rs113993959	GT	carrier for G542X cystic fibrosis mutation
+rs1801175	CT	"carrier for glycogen storage disease, type 1A"
+rs121908287	CT	carrier for I41T partial function variant
+rs113993958	CG	carrier for milder form of cystic fibrosis
+rs113993961	CG	carrier for Werner syndrome
+rs1135840	CG	Carrier of at least one CYP2D6 variants (non-CYP2D6*1)
+rs104886461	AG	Carrier of mucolipidosis type IV mutation
+rs2069514	AG	carrier of one CYP1A2*1C allele
+rs12720461	CT	carrier of one CYP1A2*1K_-729CT allele
+rs2069526	GT	carrier of one CYP1A2*1K_-739TG allele
+rs2470890	CT	carrier of one CYP1A2_1545TC allele
+rs17879685	CT	carrier of one CYP2C19*13 allele
+rs17882687	AC	carrier of one CYP2C19*15 allele
+rs17878459	CG	carrier of one CYP2C19*2B allele
+rs17884712	AG	carrier of one CYP2C19*9 allele
+rs2256871	CT	carrier of one CYP2C9*9 allele
+rs1057909	AG	carrier of one CYP2C9_42612AG allele
+rs2017319	CT	carrier of one CYP2C9_50196CT allele
+rs1057911	AT	carrier of one CYP2C9_50298AT allele
+rs1065852	CT	Carrier of one CYP2D6 decreased or non-functioning variant.
+rs2070676	CG	carrier of one CYP2E1*1B allele
+rs2070673	AT	carrier of one CYP2E1*7_-333TA  allele
+rs2070672	AG	carrier of one CYP2E1*7_-352AG allele
+rs2515641	CT	carrier of one CYP2E1_10463TC(F421F) allele
+rs2031920	CT	carrier of one CYP2E1_-1055CT allele
+rs2242480	CT	carrier of one CYP3A4*_20239GA allele
+rs1041988	CT	carrier of one CYP3A4*_23139TC(I431T) allele
+rs12721629	CT	carrier of one CYP3A4*12 allele
+rs12721634	CT	carrier of one CYP3A4*14 allele
+rs12721627	CG	carrier of one CYP3A4*16 allele
+rs10264272	CT	carrier of one CYP3A5*6 allele
+rs15793179	AC	"carrier, also a chicken"
+rs1127354	AA	causitive. Ribavirin-induced anemia iRibavirin-induced anemia during anti-hepatitis C virus therapy
+rs1800544	GG	cognitive effects?
+rs1004819	TT	common
+rs1026732	GG	common
+rs1048990	GG	common
+rs10505483	GG	common
+rs10735781	GG	common
+rs1080983	AG	common
+rs10984447	GG	common
+rs11164838	TT	common
+rs11200014	GG	common
+rs11209026	GG	common
+rs11635424	GG	common
+rs11650354	TT	common
+rs12044852	AA	common
+rs1219648	GG	common
+rs12469063	GG	common
+rs12487066	TT	common
+rs12593813	GG	common
+rs1321172	CC	common
+rs16947078	AA	common
+rs17602729	GG	common
+rs17883192	GG	common
+rs1800471	GG	common
+rs2074190	TT	common
+rs2143340	TT	common
+rs2228063	AA	common
+rs2230199	GG	common
+rs2237897	CC	common
+rs2240017	GG	common
+rs2254958	TT	common
+rs2273535	AA	common
+rs2295190	GG	common
+rs2300478	TT	common
+rs2395029	TT	common
+rs241448	TT	common
+rs2420946	CC	common
+rs1012053	AA	common risk allele
+rs1061170	TT	common/normal
+rs174537	GG	common; higher LDL-C and total cholesterol
+rs174537	GT	common; higher LDL-C and total cholesterol
+rs1801274	CT	complex; generally greater risk for cancer progression
+rs1801274	TT	complex; generally greater risk for cancer progression
+rs1800629	AA	complex; generally higher risk for certain diseases
+rs1800629	AG	complex; generally higher risk for certain diseases
+rs1800629	GG	complex; generally normal risk
+rs1143634	CT	complex; see details
+rs1143634	TT	complex; see details
+rs1800795	CG	complex; see details
+rs1042714	CG	complex; see details for increased risks
+rs1042714	GG	complex; see details for increased risks
+rs237025	CT	contributes to both type-1 diabetes and type-2 diabetes
+rs11803731	TT	curlier hair
+rs2069514	AA	CYP1A2*1C homozygote
+rs12720461	TT	CYP1A2*1K_-729CT homozygote
+rs2069526	GG	CYP1A2*1K_-739TG homozygote
+rs2470890	CC	CYP1A2_1545TC homozygote
+rs12777823	AA	CYP2C19 poor metabolizer.
+rs12777823	AG	CYP2C19 reduced metabolizer
+rs17879685	TT	CYP2C19*13 homozygote
+rs17882687	CC	CYP2C19*15 homozygote
+rs12248560	CT	CYP2C19*17 ultra fast metabolizer; drug metabolism effects; also 0.77x decreased breast cancer risk
+rs12248560	TT	CYP2C19*17 ultra fast metabolizer; drug metabolism effects; also 0.77x decreased breast cancer risk
+rs17878459	CC	CYP2C19*2B homozygote
+rs17884712	AA	CYP2C19*9 homozygote
+rs1799853	CT	CYP2C9*2 carrier; average 20% reduction in warfarin metabolism
+rs1799853	TT	CYP2C9*2 homozygote; average 40% reduction in warfarin metabolism
+rs1057910	AC	CYP2C9*3 carrier; average 40% reduction in warfarin metabolism
+rs1057910	CC	CYP2C9*3 homozygote; average 80% reduction in warfarin metabolism
+rs2256871	CC	CYP2C9*9 homozygote
+rs1057909	GG	CYP2C9_42612AG homozygote
+rs2017319	TT	CYP2C9_50196CT homozygote
+rs1057911	AA	CYP2C9_50298AT homozygote
+rs2070676	CC	CYP2E1*1B homozygote
+rs2070673	AA	CYP2E1*7_-333TA  homozygote
+rs2070672	AA	CYP2E1*7_-352AG homozygote
+rs2515641	CC	CYP2E1_10463TC(F421F) homozygote
+rs2031920	TT	CYP2E1_-1055CT homozygote
+rs2242480	TT	CYP3A4*_20239GA homozygote
+rs1041988	CC	CYP3A4*_23139TC(I431T) homozygote
+rs12721629	TT	CYP3A4*12 homozygote
+rs12721634	CC	CYP3A4*14 homozygote
+rs12721627	CC	CYP3A4*16 homozygote
+rs10264272	TT	CYP3A5*6 homozygote; nonexpressor for CYP3A5
+rs113993958	CC	Cystic Fibrosis (D110H); milder form
+rs113993959	TT	Cystic Fibrosis; homozygote for G542X mutation
+rs15793179	CC	deadly mutation for chickens
+rs1334512	GT	decreased risk for severe malaria
+rs11246226	AC	decreased risk of schizophrenia in limited study
+rs11246226	CC	decreased risk of schizophrenia in limited study
+rs2007153	AA	decreased risk of schizophrenia in limited study
+rs2283123	CT	decreased risk of schizophrenia in limited study
+rs2283123	TT	decreased risk of schizophrenia in limited study
+rs1800462	CG	detoxifying ability may be diminished
+rs17822931	TT	dry earwax
+rs1800278	GG	DUCHENNE MUSCULAR DYSTROPHY
+rs2230288	AG	E326K variant in GBA gene
+rs17482753	GT	elevated triglycerides
+rs17482753	TT	elevated triglycerides
+rs1050828	AA	G6PD deficiency
+rs1050829	GG	G6PD Type A
+rs1050829	AG	G6PD Type A/B
+rs1050829	AA	G6PD Type B
+rs16891982	GG	generally European
+rs2279744	GG	generally more cancer prone
+rs2279744	GT	generally more cancer prone
+rs16891982	CC	"generally non-European, but if European, 7x more likely to have black hair"
+rs1801175	TT	"Glycogen storage disease, type 1A"
+rs1800169	GG	greater relative benefit of iloperidone to schizophrenics
+rs17070145	TT	greatly increased memory performance
+rs1800407	AA	green/hazel/brown/black eyes more likely
+rs1800407	AG	green/hazel/brown/black eyes more likely
+rs1027557	AG	heterozygosity seems common
+rs1799807	AG	"Heterozygous for ""atypical"" BuChE"
+rs1800750	AA	higher acute otitis risk
+rs1528133	AC	higher body mass index
+rs1528133	CC	higher body mass index
+rs2272382	AG	higher body mass index
+rs2272382	GG	higher body mass index
+rs2272383	AG	higher body mass index
+rs2272383	GG	higher body mass index
+rs2273535	AT	higher cancer risk
+rs2273535	TT	higher cancer risk
+rs1126742	CT	higher hypertension risk
+rs1126742	TT	higher hypertension risk
+rs1800469	CC	higher risk for COPD
+rs1800469	CT	higher risk for COPD
+rs2241712	AA	higher risk for COPD
+rs2241712	AG	higher risk for COPD
+rs13208776	GG	higher risk for generalized vitiligo
+rs17576	GG	"higher risk for lung cancer, and, COPD in smokers; normal risk for MI"
+rs17576	AG	"higher risk for MI and lung cancer, and, COPD in smokers"
+rs16969968	AA	"higher risk for nicotine dependence, lower risk for cocaine dependence"
+rs2209972	CC	higher risk for PCOS?
+rs2209972	CT	higher risk for PCOS?
+rs1328674	AA	higher risk for RA
+rs1328674	AG	higher risk for RA
+rs17236239	GG	higher risk for speech development delay and/or impairment
+rs2538976	GG	higher risk for speech development delay and/or impairment
+rs10306114	AG	Higher risk of bleeding during coronary angiography
+rs10306114	GG	Higher risk of bleeding during coronary angiography
+rs2073711	CC	higher risk of LDD
+rs2073711	CT	higher risk of LDD
+rs10246256	TT	higher risk of speech development delay and/or impairment
+rs1922892	TT	higher risk of speech development delay and/or impairment
+rs2538991	GG	higher risk of speech development delay and/or impairment
+rs10835638	TT	higher serum FSH level among males
+rs235756	CT	higher transferrin levels if rs1800562(A;A)
+rs235756	TT	higher transferrin levels if rs1800562(A;A)
+rs2108622	TT	higher warfarin dosing
+rs174548	CC	highest phosphatidylcholine values
+rs1148259	TT	highest sphingomyelin ratios
+rs2395029	GT	HLA-B*5701 carrier
+rs2395029	GG	HLA-B*5701 homozygote; high risk for hypersensitivity to various drugs including abacavir; see details
+rs121908287	CC	homozygote for I41T partial function variant
+rs1799807	GG	"Homozygous for ""atypical"" BuChE"
+rs1065852	TT	Homozygous for CYP2D6 decreased or non-functioning variants.
+rs1080985	GG	Homozygous for CYP2D6 variants (non-CYP2D6*1)
+rs1135840	CC	Homozygous for CYP2D6 variants (non-CYP2D6*1)
+rs16947	AA	Homozygous for CYP2D6 variants (non-CYP2D6*1)
+rs2230288	AA	Homozygous for E326K variant of GBA gene
+rs121908034	CG	hypercholesterolemia risk; heterozygote
+rs121908034	GG	hypercholesterolemia risk; homozygote
+rs12536657	AA	hypermyopia risk
+rs187238	GG	hypertension increases risk 3.75x for sudden cardiac death
+rs187238	CC	hypertension not a risk factor for sudden cardiac death
+rs187238	CG	hypertension not a risk factor for sudden cardiac death
+rs2305480	TT	"if 4 years old or younger, ~3x increased asthma risk if exposed to smoke"
+rs1799724	CT	"if ApoE4(-), 1.6x risk of AD; if (+), 6.6x risk"
+rs1799724	TT	"if ApoE4(-), 1.6x risk of AD; if (+), 6.6x risk"
+rs10897346	CC	"if depressed, 2.6x more likely to not respond to antidepressants"
+rs10897346	CT	"if depressed, 2.6x more likely to not respond to antidepressants"
+rs10192566	CG	"if diabetic, better response to rosiglitazone"
+rs10192566	GG	"if diabetic, better response to rosiglitazone"
+rs10192566	CC	"if diabetic, poorer response to rosiglitazone"
+rs16891982	CG	"if European, 7x more likely to have black hair"
+rs2179922	GG	"If male, 1-2cm taller on average"
+rs17300539	AA	"if obese, dieting more effective"
+rs17300539	AG	"if obese, dieting more effective"
+rs1130866	TT	"if sclerotic, reduced risk of lung disease"
+rs1050565	GG	"if testicular cancer patient, 5x poorer response to bleomycin chemotherapy"
+rs1018381	TT	impaired cognitive ability
+rs1799750	GG	"in breast cancer patients, risk of poorer prognosis"
+rs1800462	CC	incapable of detoxifying
+rs1800460	AA	incapable of detoxifying byproducts of certain drugs
+rs1355095	GG	increase risk of schizophrenia
+rs1799950	AA	increased breast cancer risk
+rs1799950	AG	increased breast cancer risk
+rs12255372	TT	"increased breast cancer, type-2 diabetes, and aggressive prostate cancer risk"
+rs10455872	AG	increased Coronary Heart disease risk
+rs10455872	GG	increased Coronary Heart disease risk
+rs11073328	TT	increased longevity?
+rs17070145	CT	increased memory performance
+rs2070744	CC	increased prostate cancer risk
+rs1805007	CT	increased response to anesthetics
+rs1805007	TT	increased response to anesthetics; 13-20x higher likelihood of red hair
+rs2269475	AA	increased rheumatoid arthritis risk
+rs2269475	AG	increased rheumatoid arthritis risk
+rs1334710	AG	increased risk
+rs1334710	GG	increased risk
+rs11569562	CC	increased risk for adult asthma
+rs1800759	AA	increased risk for alcohol or drug dependence; increased agreeableness (?)
+rs1050283	CC	increased risk for Alzheimer's
+rs1050283	CT	increased risk for Alzheimer's
+rs140701	AA	increased risk for anxiety disorders
+rs140701	AG	increased risk for anxiety disorders
+rs10759932	CC	increased risk for chorionic plate inflammation
+rs10759932	CT	increased risk for chorionic plate inflammation
+rs1554973	CC	increased risk for chorionic plate inflammation
+rs1554973	CT	increased risk for chorionic plate inflammation
+rs12567232	AA	Increased risk for Crohn's Disease
+rs12567232	AG	Increased risk for Crohn's Disease
+rs1793004	CC	increased risk for Crohn's disease
+rs1992660	AA	increased risk for Crohn's disease
+rs1992662	CC	increased risk for Crohn's disease
+rs2383207	AG	increased risk for heart disease
+rs2383207	GG	increased risk for heart disease
+rs2232165	CT	increased risk for heavy alcohol consumption
+rs2232165	TT	increased risk for heavy alcohol consumption
+rs1801270	AC	increased risk for lung cancer
+rs1801270	CC	increased risk for lung cancer
+rs1800255	AA	increased risk for pelvic organ prolapse
+rs1265181	CG	increased risk for psoriasis
+rs2240340	AA	increased risk for RA
+rs2240340	AG	increased risk for RA
+rs2076530	AG	increased risk for sarcoidosis
+rs10485057	GG	"increased risk for smoking, nicotine dependence"
+rs13266634	CC	increased risk for type-2 diabetes
+rs13266634	CT	increased risk for type-2 diabetes
+rs1160312	AA	increased risk of baldness
+rs1385699	TT	increased risk of baldness
+rs1006737	AA	increased risk of Bipolar disorder
+rs1800888	CT	increased risk of coronary artery disease
+rs1800888	TT	increased risk of coronary artery disease
+rs2298566	AC	increased risk of coronary heart disease; better response to statins
+rs2298566	CC	increased risk of coronary heart disease; better response to statins
+rs2143340	CT	increased risk of dyslexia and poor reading performance
+rs1024611	CT	increased risk of exercise induced ischemia
+rs1024611	CC	"increased risk of exercise induced ischemia, Increased CCL2 levels; increased rate of HIV progression"
+rs2294008	TT	increased risk of gastric and bladder cancer
+rs2231142	AA	increased risk of gout; more responsive to rosuvastatin
+rs1799983	GT	increased risk of preeclampsia
+rs1799983	TT	"increased risk of preeclampsia, also heart disease"
+rs11246226	AA	increased risk of schizophrenia in limited study
+rs2007153	GG	increased risk of schizophrenia in limited study
+rs11614913	CC	increased risk of various types of cancer
+rs1800955	CC	increased susceptibility to novelty seeking
+rs1800955	CT	increased susceptibility to novelty seeking
+rs10830963	CG	increased type-2 diabetes risk
+rs10830963	GG	increased type-2 diabetes risk
+rs1800587	TT	increased waist circumference and risk of disk disease
+rs1076560	AA	influences working memory
+rs1799999	TT	insulin resistance
+rs174548	CG	intermediate phosphatidylcholine values
+rs10835638	GT	intermediate serum FSH level among males
+rs1148259	GT	intermediate sphingomyelin ratios
+rs11799226	GG	L21+
+rs1800795	CC	"less IL6; certain risks, see details"
+rs2223841	GG	less likely to go bald
+rs1128503	TT	likely to require more methadone during heroin withdrawal
+rs10494366	GG	Long QT interval
+rs1042522	CC	longer lifespan?
+rs10918594	GG	Longer QT interval
+rs10495584	AG	lower blood pressure
+rs10495584	GG	lower blood pressure
+rs17376328	AA	lower blood pressure
+rs17376328	AG	lower blood pressure
+rs198358	AG	lower blood pressure
+rs198358	GG	lower blood pressure
+rs1800947	CC	lower CRP levels
+rs1800947	CG	lower CRP levels
+rs183130	CC	lower HDL cholesterol
+rs183130	CT	lower HDL cholesterol
+rs2251746	CT	lower IgE levels
+rs2427837	AG	lower IgE levels
+rs174537	TT	lower LDL-C and total cholesterol
+rs1799782	CC	lower risk for skin cancer
+rs2229616	AA	lower risk of metabolic syndrome
+rs2229616	AG	lower risk of metabolic syndrome
+rs10835638	GG	lower serum FSH level among males
+rs17173608	GG	lower visceral adipose tissue
+rs17173608	GT	lower visceral adipose tissue
+rs2282679	CC	lower vitamin D levels
+rs2108622	CC	lower warfarin dosing
+rs2251746	CC	lowest IgE levels
+rs2427837	AA	lowest IgE levels
+rs174548	GG	lowest phosphatidylcholine values
+rs1148259	GG	lowest sphingomyelin ratios
+rs2032597	AA	M170-
+rs2032597	AC	M170-
+rs2032597	CC	"M170+, Relevant to haplogroup I (Y-DNA)"
+rs13447354	AG	M307- P203-
+rs13447354	GG	M307- P203-
+rs13447354	AA	"M307+ P203+, Relevant to haplogroup I1 (Y-DNA), Relevant to haplogroup O1a1 (Y-DNA)"
+rs17316597	AG	M450- S109-
+rs17316597	GG	M450- S109-
+rs17316597	AA	"M450+ S109+, Relevant to haplogroup I1 (Y-DNA)"
+rs2032637	AA	M72-
+rs2032637	AG	M72-
+rs2032637	GG	"M72+, Relevant to haplogroup I1b1 (Y-DNA)"
+rs2071746	TT	may be part of gs124
+rs1800858	GG	may predispose somehow to Hirschsprung disease
+rs1128503	CT	may require more methadone during heroin withdrawal
+rs2032602	CC	"member of haplogroup D (Asian), Relevant to haplogroup D"
+rs237025	TT	MET/MET increased diabetes susceptibility
+rs1815739	CT	mix of sprinting &amp; endurance muscles
+rs1426654	AG	mixed African/European ancestry possible
+rs12425791	AG	mixed evidence of increased risk for stroke
+rs1800795	GG	"more IL6; certain risks, see details"
+rs201571	TT	more likely to go bald
+rs2223841	AA	more likely to go bald before age 40
+rs1799971	GG	more pain
+rs1049353	AG	more resistant to treatment for depression
+rs1049353	GG	more resistant to treatment for depression
+rs17238540	GG	more responsive to statin treatment
+rs17244841	AA	more responsive to statin treatment
+rs104886461	GG	Mucolipidosis type IV
+rs1801133	CT	"multiple, incl 1.17x for gastric cancer, also lung cancer"
+rs1801133	TT	"multiple, incl 1.5x for gastric cancer, also lung cancer - eat your veggies (and consider taking folate)"
+rs10246256	CC	None
+rs10246256	CT	None
+rs1042522	CG	None
+rs1042602	AC	None
+rs1042602	CC	None
+rs10505483	AA	None
+rs10505483	AG	None
+rs10757272	CC	None
+rs13207033	AG	None
+rs13207033	GG	None
+rs1355095	AG	None
+rs17236239	AA	None
+rs17236239	AG	None
+rs1801252	AA	None
+rs1805008	CT	None
+rs1805009	CG	None
+rs182549	CT	None
+rs182549	TT	None
+rs1922892	CC	None
+rs1922892	CT	None
+rs2066702	CT	None
+rs2066702	TT	None
+rs2070744	CT	None
+rs2108622	CT	None
+rs2228063	AG	None
+rs2228063	GG	None
+rs2538976	AA	None
+rs2538976	AG	None
+rs2538991	GT	None
+rs2538991	TT	None
+rs1000113	CC	normal
+rs10008492	CC	normal
+rs1001179	GG	normal
+rs10033464	TT	normal
+rs10090154	CC	normal
+rs1012729	AA	normal
+rs10134944	CC	normal
+rs1015362	AA	normal
+rs10181656	CC	normal
+rs10210302	CC	normal
+rs10250779	CC	normal
+rs10250779	CT	normal
+rs10264272	CC	normal
+rs10306114	AA	normal
+rs1034428	TT	normal
+rs1041988	TT	normal
+rs1042173	GG	normal
+rs1042173	GT	normal
+rs1042713	GG	normal
+rs1042714	CC	normal
+rs1047031	AG	normal
+rs1047031	GG	normal
+rs1047552	TT	normal
+rs10485057	AA	normal
+rs10488631	TT	normal
+rs104886461	AA	normal
+rs1049174	CC	normal
+rs10492972	TT	normal
+rs1049353	AA	normal
+rs1049550	CC	normal
+rs10495584	AA	normal
+rs10498345	TT	normal
+rs1050152	CC	normal
+rs1050565	AA	normal
+rs1050565	AG	normal
+rs10507391	AA	normal
+rs10513025	TT	normal
+rs1051730	CC	normal
+rs1052133	CC	normal
+rs1056836	CC	normal
+rs1056836	CG	normal
+rs1057868	CC	normal
+rs1057868	CT	normal
+rs1057909	AA	normal
+rs1057911	TT	normal
+rs1063192	TT	normal
+rs1065852	CC	normal
+rs10754339	AA	normal
+rs10757274	AA	normal
+rs10759932	TT	normal
+rs10761659	GG	normal
+rs1076560	CC	normal
+rs10801935	AA	normal
+rs10801935	AC	normal
+rs10811661	CC	normal
+rs10818488	GG	normal
+rs10830963	CC	normal
+rs10865331	GG	normal
+rs10871777	GG	normal
+rs10883365	GG	normal
+rs10892759	AG	normal
+rs10892759	GG	normal
+rs10893081	CT	normal
+rs10893081	TT	normal
+rs10895068	GG	normal
+rs10897346	TT	normal
+rs10958409	GG	normal
+rs10982256	TT	normal
+rs11052552	TT	normal
+rs11073328	CC	normal
+rs11110912	GG	normal
+rs11136000	CC	normal
+rs11162922	GG	normal
+rs11171739	TT	normal
+rs11200638	GG	normal
+rs11218350	AA	normal
+rs11218350	AT	normal
+rs11260867	CC	normal
+rs1126497	CC	normal
+rs1126742	CC	normal
+rs1126809	GG	normal
+rs1128503	CC	normal
+rs1128535	AA	normal
+rs1130866	CC	normal
+rs1130866	CT	normal
+rs1131532	CC	normal
+rs1131532	CT	normal
+rs1135824	AA	normal
+rs1135840	GG	normal
+rs1136287	CC	normal
+rs1136410	TT	normal
+rs113993958	GG	normal
+rs113993959	GG	normal
+rs113993961	GG	normal
+rs1143634	CC	normal
+rs1143674	GG	normal
+rs1143679	GG	normal
+rs11523871	AA	normal
+rs1154155	TT	normal
+rs11569562	TT	normal
+rs11614913	CT	normal
+rs11614913	TT	normal
+rs11622475	TT	normal
+rs1165205	TT	normal
+rs1169300	GG	normal
+rs11718863	AA	normal
+rs11761231	TT	normal
+rs11805303	CC	normal
+rs11809207	GG	normal
+rs11833579	GG	normal
+rs11868035	GG	normal
+rs12037606	GG	normal
+rs12094543	GG	normal
+rs12143842	CC	normal
+rs12150220	TT	normal
+rs12184413	CC	normal
+rs12184413	CT	normal
+rs121908034	CC	normal
+rs121908287	TT	normal
+rs12248560	CC	normal
+rs12304921	AA	normal
+rs1234	CC	normal
+rs12425791	GG	normal
+rs12567232	GG	normal
+rs12597511	CC	normal
+rs1265159	CC	normal
+rs1265181	CC	normal
+rs12708716	GG	normal
+rs1271572	GG	normal
+rs12720461	CC	normal
+rs12721627	GG	normal
+rs12721629	CC	normal
+rs12721634	TT	normal
+rs12821256	TT	normal
+rs12936511	CC	normal
+rs129676	GG	normal
+rs12970134	GG	normal
+rs13181	TT	normal
+rs13208776	AA	normal
+rs13208776	AG	normal
+rs13266634	TT	normal
+rs1327328	CC	normal
+rs1327328	CT	normal
+rs13293564	GT	normal
+rs13293564	TT	normal
+rs1329428	AA	normal
+rs1333040	CC	normal
+rs1333048	AA	normal
+rs1333049	GG	normal
+rs1334512	TT	normal
+rs13357391	CT	normal
+rs13357391	TT	normal
+rs13361189	TT	normal
+rs13387042	GG	normal
+rs1344484	CC	normal
+rs1344706	GG	normal
+rs1355095	AA	normal
+rs1360780	CC	normal
+rs1375144	TT	normal
+rs140701	GG	normal
+rs1421085	TT	normal
+rs1434536	GG	normal
+rs1447295	CC	normal
+rs144848	TT	normal
+rs1467465	TT	normal
+rs1470579	AA	normal
+rs1495377	CC	normal
+rs1501299	AA	normal
+rs1501299	AC	normal
+rs1522305	CC	normal
+rs1522305	CG	normal
+rs1535	GG	normal
+rs1537415	CC	normal
+rs1554483	CC	normal
+rs1554973	TT	normal
+rs1570360	GG	normal
+rs1573496	CC	normal
+rs1585215	AA	normal
+rs1611115	CC	normal
+rs1611115	CT	normal
+rs16260	CC	normal
+rs16847548	TT	normal
+rs16888589	AA	normal
+rs16890979	TT	normal
+rs16947	GG	normal
+rs16969968	GG	normal
+rs1699103	AA	normal
+rs1699103	AG	normal
+rs17001266	CC	normal
+rs17036314	GG	normal
+rs17158558	CC	normal
+rs17158558	CT	normal
+rs17166496	GG	normal
+rs17173608	TT	normal
+rs17221417	CC	normal
+rs17228212	TT	normal
+rs17234657	TT	normal
+rs17300539	GG	normal
+rs1734787	AA	normal
+rs1734791	AA	normal
+rs1734792	AA	normal
+rs17376328	GG	normal
+rs17388568	GG	normal
+rs17435	AA	normal
+rs17482753	GG	normal
+rs17672135	CC	normal
+rs17696736	AA	normal
+rs17782313	TT	normal
+rs17817449	TT	normal
+rs1784931	AA	normal
+rs1784931	AC	normal
+rs17878459	GG	normal
+rs17879685	CC	normal
+rs17882687	AA	normal
+rs17884712	GG	normal
+rs1792113	AA	normal
+rs1792113	AG	normal
+rs1799732	CC	normal
+rs1799884	GG	normal
+rs1799969	GG	normal
+rs1799971	AA	normal
+rs1799990	GG	normal
+rs1800012	GG	normal
+rs1800012	GT	normal
+rs1800056	TT	normal
+rs1800169	AA	normal
+rs1800169	AG	normal
+rs1800255	AG	normal
+rs1800255	GG	normal
+rs1800454	GG	normal
+rs1800460	AG	normal
+rs1800460	GG	normal
+rs1800587	CC	normal
+rs1800587	CT	normal
+rs1800630	CC	normal
+rs1800709	CC	normal
+rs1800759	CC	normal
+rs1800858	AA	normal
+rs1800860	GG	normal
+rs1800871	TT	normal
+rs1800888	CC	normal
+rs1800896	GG	normal
+rs1800947	GG	normal
+rs1800955	TT	normal
+rs1801020	CC	normal
+rs1801274	CC	normal
+rs1801278	GG	normal
+rs1801394	AA	normal
+rs1801394	AG	normal
+rs1801516	AG	normal
+rs1801516	GG	normal
+rs1803274	GG	normal
+rs1805097	AG	normal
+rs1805097	GG	normal
+rs1835740	GG	normal
+rs1858830	GG	normal
+rs1859345	CT	normal
+rs1859345	TT	normal
+rs1864010	GG	normal
+rs1867277	GG	normal
+rs1881747	TT	normal
+rs1889018	CC	normal
+rs1892534	GG	normal
+rs1927911	CC	normal
+rs1937506	GG	normal
+rs1953126	CC	normal
+rs1975197	CC	normal
+rs198358	AA	normal
+rs2011077	AA	normal
+rs2017319	CC	normal
+rs2031920	CC	normal
+rs2059693	CC	normal
+rs2069442	CC	normal
+rs2069442	CG	normal
+rs2069514	GG	normal
+rs2069526	TT	normal
+rs2069912	TT	normal
+rs2070600	GG	normal
+rs2070672	GG	normal
+rs2070673	TT	normal
+rs2070676	GG	normal
+rs2071746	AA	normal
+rs2071746	AT	normal
+rs2072797	CC	normal
+rs2075291	CC	normal
+rs2075650	AA	normal
+rs2076530	GG	normal
+rs2076756	AA	normal
+rs2090409	TT	normal
+rs2104286	GG	normal
+rs213950	GG	normal
+rs2145418	TT	normal
+rs2165241	CC	normal
+rs2167270	AG	normal
+rs2167270	GG	normal
+rs2177369	CT	normal
+rs2177369	TT	normal
+rs2179922	AA	normal
+rs2179922	AG	normal
+rs2200733	CC	normal
+rs2227928	TT	normal
+rs2228000	CC	normal
+rs2228000	CT	normal
+rs2228001	AC	normal
+rs2228001	CC	normal
+rs2229616	GG	normal
+rs2231137	AA	normal
+rs2231142	CC	normal
+rs2232165	CC	normal
+rs2241524	CC	normal
+rs2241524	CT	normal
+rs2241766	GG	normal
+rs2241766	TT	normal
+rs2241880	TT	normal
+rs2242480	CC	normal
+rs2243250	CC	normal
+rs2256871	TT	normal
+rs2266886	CC	normal
+rs2268578	CC	normal
+rs2269475	GG	normal
+rs2270641	TT	normal
+rs2274223	AA	normal
+rs2275913	GG	normal
+rs2278206	CT	normal
+rs2279420	TT	normal
+rs2279744	TT	normal
+rs2280714	GG	normal
+rs2282679	AA	normal
+rs2287622	TT	normal
+rs2290602	GG	normal
+rs2292239	CC	normal
+rs2293347	AA	normal
+rs2293347	AG	normal
+rs2295490	AA	normal
+rs2296336	GG	normal
+rs2297480	AA	normal
+rs2297480	AC	normal
+rs2297508	CC	normal
+rs2298566	AA	normal
+rs2302009	GT	normal
+rs2302009	TT	normal
+rs2303067	GG	normal
+rs2304256	AA	normal
+rs2305480	CC	normal
+rs2305480	CT	normal
+rs2306402	TT	normal
+rs2308327	AA	normal
+rs235756	CC	normal
+rs2373115	GT	normal
+rs2373115	TT	normal
+rs2383206	AA	normal
+rs2383207	AA	normal
+rs2398162	AG	normal
+rs2398162	GG	normal
+rs242557	AA	normal
+rs242557	AG	normal
+rs242941	GT	normal
+rs242941	TT	normal
+rs2435357	AG	normal
+rs2435357	GG	normal
+rs2448490	AG	normal
+rs2448490	GG	normal
+rs2464196	CC	normal
+rs2470890	TT	normal
+rs2476601	GG	normal
+rs2511989	GG	normal
+rs2515475	CC	normal
+rs2515641	TT	normal
+rs2518224	AA	normal
+rs2518224	AC	normal
+rs2542151	TT	normal
+rs2544677	CC	normal
+rs1695	AA	normal asthma risk in certain populations
+rs1799950	GG	normal breast cancer risk
+rs2251746	TT	normal but highest IgE levels
+rs2427837	GG	normal but highest IgE levels
+rs11465770	CC	normal Crohn's Disease risk
+rs1800462	GG	normal for 23andMe
+rs1052133	CG	normal for bladder cancer risk; 1.9x increased risk for gallbladder cancer
+rs1010	AA	normal form
+rs11881940	AA	normal form
+rs10050860	CC	normal risk
+rs10086908	TT	normal risk
+rs1024611	TT	normal risk
+rs1042838	GG	normal risk
+rs10489629	GG	normal risk
+rs10492519	AA	normal risk
+rs1050283	TT	normal risk
+rs1061646	TT	normal risk
+rs11209032	GG	normal risk
+rs11362	AA	normal risk
+rs11362	GG	normal risk
+rs11465804	TT	normal risk
+rs13149290	CT	normal risk
+rs13149290	TT	normal risk
+rs131690	AA	normal risk
+rs131702	TT	normal risk
+rs1343151	CC	normal risk
+rs140504	GG	normal risk
+rs143383	CC	normal risk
+rs1495965	GG	normal risk
+rs1528133	AA	normal risk
+rs1545985	AA	normal risk
+rs16901979	CC	normal risk
+rs17482078	TT	normal risk
+rs17647532	TT	normal risk
+rs1799724	CC	normal risk
+rs1799983	GG	normal risk
+rs1799999	GG	normal risk
+rs1800469	TT	normal risk
+rs1800750	AG	normal risk
+rs1800750	GG	normal risk
+rs1800972	CC	normal risk
+rs1800972	CG	normal risk
+rs1801028	GG	normal risk
+rs1801028	CC	normal risk
+rs1801270	AA	normal risk
+rs1805007	CC	normal risk
+rs183130	TT	normal risk
+rs1859962	GT	normal risk
+rs1859962	TT	normal risk
+rs1954787	CT	normal risk
+rs2056116	GG	normal risk
+rs2107301	CC	normal risk
+rs2156921	AA	normal risk
+rs2209972	TT	normal risk
+rs2230201	AA	normal risk
+rs2230500	GG	normal risk
+rs2238135	CC	normal risk
+rs2241712	GG	normal risk
+rs2250889	GG	normal risk
+rs2267012	GG	normal risk
+rs2267013	GG	normal risk
+rs2267015	TT	normal risk
+rs2272382	AA	normal risk
+rs2272383	AA	normal risk
+rs2287987	TT	normal risk
+rs251177	TT	normal risk
+rs25489	AG	normal risk
+rs25489	GG	normal risk
+rs11887534	GG	normal risk for gallstones
+rs17576	AA	normal risk for lung cancer; higher risk for MI
+rs211239	TT	normal risk for priapism in SCA patients
+rs2249358	AA	normal risk for priapism in SCA patients
+rs20417	CC	normal risk of diabetes
+rs2305795	AG	normal risk of narcolepsy
+rs2007153	AG	normal risk of schizophrenia in limited study
+rs2283123	CC	normal risk of schizophrenia in limited study
+rs17647532	CT	normal risk?
+rs15793179	AA	"normal, for chickens"
+rs1799963	GG	normal/common
+rs2273697	GG	normal/common
+rs2004640	GG	normal; 0.9x decreased risk for rheumatoid arthritis
+rs1800759	AC	normal; increased agreeableness (?)
+rs1229984	GG	normal; more frequent alcohol consumption
+rs1799853	CC	normal; no change in warfarin metabolism
+rs1057910	AA	normal; no effect on warfarin metabolism
+rs10485057	AG	normal?
+rs1800562	GG	Not a C282Y hemochromatosis carrier.
+rs1799945	CC	Not a H63D hemochromatosis carrier.
+rs17238540	GT	not as responsive to statin treatment
+rs17238540	TT	not as responsive to statin treatment
+rs17244841	AT	not as responsive to statin treatment
+rs17244841	TT	not as responsive to statin treatment
+rs2240017	CC	not observed (too rare)
+rs1800562	AG	"One copy of C282Y, carrier of hemochromatosis, likely unaffected unless also H63D carrier."
+rs1135824	AG	One copy of CYP2D6*3B non-functioning variant.
+rs1799945	CG	"One copy of H63D, carrier of hemochromatosis, likely unaffected unless also C282Y carrier."
+rs2227928	CC	poorer response to pancreatic cancer combined treatment
+rs2227928	CT	poorer response to pancreatic cancer combined treatment
+rs10250779	TT	possible exercise-inducing cramping in African-Americans
+rs1803274	AA	possible increased Alzheimer's risk
+rs1803274	AG	possible increased Alzheimer's risk
+rs144848	GT	possible increased risk for breast cancer
+rs1800709	CT	possible predisposition to breast cancer
+rs11650354	CT	possible risk for allergic asthma
+rs16947078	AG	possible risk for allergic asthma
+rs2435357	AA	possible risk for Hirschsprung disease
+rs1726866	TT	possible unable to taste bitter
+rs1048661	GG	possibly higher glaucoma risk?
+rs1048661	GT	possibly higher glaucoma risk?
+rs1142345	GG	possibly incapable of detoxifying
+rs1815739	TT	possibly increased endurance
+rs1265181	GG	possibly increased risk of psoriasis
+rs12425791	AA	possibly increased risk of stroke
+rs1815739	CC	possibly increased sprint/power performance
+rs182549	CC	possibly lactose intolerant
+rs2278206	TT	possibly less susceptible to asthma
+rs11465770	CT	possibly lower risk of Crohn's Disease (OR=0.30)
+rs11465770	TT	possibly lower risk of Crohn's Disease (OR=0.30)
+rs1800012	TT	possibly reduced risk of anterior cruciate ligament ruptures
+rs10246939	TT	possibly unable to taste bitterness
+rs1800709	TT	predisposition to breast cancer?
+rs1426654	GG	"probably darker-skinned, Asian or African ancestry"
+rs1426654	AA	"probably light-skinned, European ancestry"
+rs1800858	AG	probably normal
+rs12696304	CG	"Prone to aging faster, at least in European populations?"
+rs12696304	GG	"Prone to aging faster, at least in European populations?"
+rs1799963	AA	Prone to thrombosis
+rs1799963	AG	Prone to thrombosis
+rs1265159	TT	psoriasis risk for Chinese?
+rs2066844	TT	rare allele
+rs17571	TT	rare and doesn't seem helpful
+rs2476601	AA	rare genotype
+rs12021720	TT	rare genotype but harmless
+rs1007371	TT	rare genotype.
+rs1805009	CC	red hair possible
+rs1864010	AA	reduced colorectal risk
+rs1864010	AG	reduced colorectal risk
+rs1801278	AA	reduced colorectal risk when combined with INSR SNP
+rs1801278	AG	reduced colorectal risk when combined with INSR SNP
+rs17070145	CC	reduced memory abilities
+rs2297480	CC	reduced response to anti-osteoporosis drugs
+rs10868366	GT	reduced risk for AD?
+rs10868366	TT	reduced risk for AD?
+rs1800972	GG	reduced risk for Crohn's disease; reduced risk for maternal HIV transmission
+rs17647532	CC	"reduced risk for ovarian cancer originally reported, but did not replicate in larger study"
+rs1160312	GG	reduced risk of baldness
+rs2180439	CC	reduced risk of baldness
+rs13207033	AA	reduced risk of rheumatoid arthritis
+rs2267801	CC	Relevant to haplogroup
+rs2032591	GG	Relevant to haplogroup A2
+rs2032633	CC	Relevant to haplogroup A2
+rs2032638	TT	Relevant to haplogroup A2
+rs2032656	GG	Relevant to haplogroup A2
+rs2032664	AA	Relevant to haplogroup A2
+rs2032603	GG	Relevant to haplogroup A3b
+rs2032619	CC	Relevant to haplogroup A3b
+rs2032670	GG	Relevant to haplogroup A3b
+rs13447353	TT	Relevant to haplogroup A3b2
+rs2032625	AA	Relevant to haplogroup A3b2
+rs2032649	GG	Relevant to haplogroup A3b2
+rs2032669	CC	Relevant to haplogroup A3b2
+rs2032599	CC	Relevant to haplogroup B
+rs2032601	TT	Relevant to haplogroup B2
+rs2032671	TT	Relevant to haplogroup B2a1
+rs2032679	CC	"Relevant to haplogroup B2a2, Relevant to haplogroup B2b3a"
+rs2032662	TT	Relevant to haplogroup B2b
+rs2032594	CC	Relevant to haplogroup B2b2
+rs2032663	TT	Relevant to haplogroup B2b4b
+rs13447347	GG	Relevant to haplogroup BR
+rs2032630	TT	Relevant to haplogroup BR
+rs2032647	AA	Relevant to haplogroup BR
+rs2032666	TT	Relevant to haplogroup C
+rs2032612	TT	Relevant to haplogroup C1
+rs2032659	TT	Relevant to haplogroup C2a
+rs2032668	CC	Relevant to haplogroup C3
+rs2032643	GG	Relevant to haplogroup C3c
+rs2032660	TT	Relevant to haplogroup C4a
+rs2032595	TT	Relevant to haplogroup CR
+rs2267802	GG	Relevant to haplogroup D
+rs2032596	TT	Relevant to haplogroup D2
+rs2032621	CC	Relevant to haplogroup D2
+rs2032626	GG	"Relevant to haplogroup D2, Relevant to haplogroup R1a1c"
+rs2032614	CC	Relevant to haplogroup D2a1
+rs2268591	GG	Relevant to haplogroup D2a1b
+rs16980598	AA	Relevant to haplogroup DE
+rs16980749	TT	Relevant to haplogroup DE
+rs2032653	CC	Relevant to haplogroup DE
+rs16980360	AA	Relevant to haplogroup E
+rs16980548	TT	Relevant to haplogroup E
+rs16980574	CC	Relevant to haplogroup E
+rs16981308	GG	Relevant to haplogroup E
+rs16981311	TT	Relevant to haplogroup E
+rs16980577	AA	Relevant to haplogroup E1
+rs2032617	TT	Relevant to haplogroup E1a
+rs16980473	TT	Relevant to haplogroup E1b
+rs16980621	CC	Relevant to haplogroup E1b1
+rs16980394	AA	Relevant to haplogroup E1b1a
+rs16981297	AA	Relevant to haplogroup E1b1a
+rs2032598	CC	Relevant to haplogroup E1b1a
+rs2032627	CC	Relevant to haplogroup E1b1a6
+rs2032680	GG	Relevant to haplogroup E1b1a6
+rs16980370	GG	Relevant to haplogroup E1b1a7
+rs2032590	GG	Relevant to haplogroup E1b1a7
+rs2068150	TT	Relevant to haplogroup E1b1a7
+rs16980586	AA	Relevant to haplogroup E1b1a7a
+rs16980588	AA	Relevant to haplogroup E1b1a8
+rs16980502	TT	Relevant to haplogroup E1b1a8a
+rs16980558	GG	Relevant to haplogroup E1b1a8a
+rs16980406	AA	Relevant to haplogroup E1b1a8a1
+rs16980589	TT	Relevant to haplogroup E1b1a8a1a
+rs2032654	GG	Relevant to haplogroup E1b1b
+rs2032640	TT	Relevant to haplogroup E1b1b1b
+rs2032613	GG	Relevant to haplogroup E1b1b1b1
+rs2032600	CC	Relevant to haplogroup E1b1b1b2
+rs2032618	TT	Relevant to haplogroup E1b1b1c1a
+rs13447369	TT	Relevant to haplogroup E1b1b1c1b
+rs13447370	AA	Relevant to haplogroup E1b1b1d
+rs2032639	AA	Relevant to haplogroup E2
+rs2032620	AA	Relevant to haplogroup E2b
+rs2032646	GG	Relevant to haplogroup E2b
+rs2032616	AA	Relevant to haplogroup E2b1
+rs2032593	AA	Relevant to haplogroup E2b1a
+rs16980396	TT	Relevant to haplogroup F-R
+rs16980478	CC	Relevant to haplogroup F-R
+rs16980495	AA	Relevant to haplogroup F-R
+rs16980499	TT	Relevant to haplogroup F-R
+rs16980711	AA	Relevant to haplogroup F-R
+rs16981340	TT	Relevant to haplogroup F-R
+rs17174528	TT	Relevant to haplogroup F-R
+rs17842387	GG	Relevant to haplogroup F-R
+rs2032652	TT	Relevant to haplogroup F-R
+rs2032665	CC	Relevant to haplogroup F-R
+rs2032636	TT	Relevant to haplogroup G
+rs13447378	CC	Relevant to haplogroup G1
+rs13447379	AA	Relevant to haplogroup G2a2
+rs13447380	TT	Relevant to haplogroup G2b
+rs2032673	CC	Relevant to haplogroup H
+rs2032610	CC	Relevant to haplogroup H1a1
+rs17307294	GG	Relevant to haplogroup I2 (Y-DNA)
+rs2032629	AA	Relevant to haplogroup I2a2
+rs17221964	GG	Relevant to haplogroup I2b
+rs17222244	GG	Relevant to haplogroup I2b
+rs17306657	GG	Relevant to haplogroup I2b
+rs17315680	CC	Relevant to haplogroup I2b
+rs17315723	CC	Relevant to haplogroup I2b
+rs17316729	AA	Relevant to haplogroup I2b
+rs17316910	TT	Relevant to haplogroup I2b
+rs17250163	GG	Relevant to haplogroup IJ
+rs17250887	TT	Relevant to haplogroup IJ
+rs17306671	AA	Relevant to haplogroup IJ
+rs17306699	GG	Relevant to haplogroup IJ
+rs17315772	CC	Relevant to haplogroup IJ
+rs17315821	CC	Relevant to haplogroup IJ
+rs13447352	CC	Relevant to haplogroup J
+rs17315835	CC	Relevant to haplogroup J
+rs2032604	GG	Relevant to haplogroup J2
+rs13447376	AA	Relevant to haplogroup J2a1
+rs2032628	TT	Relevant to haplogroup J2a2
+rs2032648	CC	Relevant to haplogroup J2a2a
+rs13447368	AA	Relevant to haplogroup J2a6
+rs13447372	CC	Relevant to haplogroup J2a7
+rs13447373	AA	Relevant to haplogroup J2a8
+rs13447442	CC	Relevant to haplogroup J2b
+rs2032608	CC	Relevant to haplogroup J2b
+rs2032667	AA	Relevant to haplogroup J2b
+rs2032657	AA	Relevant to haplogroup J2b1
+rs13447367	AA	Relevant to haplogroup J2b2b
+rs13447375	TT	Relevant to haplogroup J2b2c
+rs17250121	TT	Relevant to haplogroup K-R
+rs2032607	TT	Relevant to haplogroup L
+rs2032606	TT	Relevant to haplogroup M1
+rs2032611	GG	Relevant to haplogroup M1
+rs2032641	TT	Relevant to haplogroup M1b1b
+rs16980363	GG	Relevant to haplogroup NO
+rs16980426	GG	Relevant to haplogroup NO
+rs16980610	AA	Relevant to haplogroup NO
+rs2032674	CC	Relevant to haplogroup NO
+rs2196155	GG	Relevant to haplogroup NO
+rs16980601	GG	Relevant to haplogroup O
+rs16981290	AA	Relevant to haplogroup O
+rs2032609	TT	Relevant to haplogroup O1a2
+rs2032632	CC	Relevant to haplogroup O1a2
+rs2032650	TT	Relevant to haplogroup O2a
+rs2032645	GG	Relevant to haplogroup O2a1
+rs11575897	TT	Relevant to haplogroup O2b
+rs2268588	GG	Relevant to haplogroup O2b
+rs17269816	CC	Relevant to haplogroup O3
+rs13447361	CC	Relevant to haplogroup O3a
+rs17269928	GG	Relevant to haplogroup O3a
+rs17276358	TT	Relevant to haplogroup O3a
+rs17316592	GG	Relevant to haplogroup O3a
+rs2032605	TT	Relevant to haplogroup O3a3b1
+rs2032661	GG	Relevant to haplogroup O3a3b1
+rs2075181	TT	Relevant to haplogroup O3a4
+rs13447348	AA	Relevant to haplogroup O3a5
+rs17222419	TT	Relevant to haplogroup P
+rs17250992	TT	Relevant to haplogroup P
+rs17307656	GG	Relevant to haplogroup P
+rs17315758	GG	Relevant to haplogroup P
+rs2032631	AA	Relevant to haplogroup P
+rs2032635	AA	Relevant to haplogroup P
+rs2032677	CC	Relevant to haplogroup Q1a3a2
+rs13447377	TT	Relevant to haplogroup Q1a6
+rs1558843	AA	Relevant to haplogroup R
+rs17249974	AA	Relevant to haplogroup R
+rs17307398	TT	Relevant to haplogroup R
+rs2032658	GG	Relevant to haplogroup R
+rs1005041	CC	Relevant to haplogroup R1
+rs2032624	CC	Relevant to haplogroup R1
+rs2020857	TT	Relevant to haplogroup R1a1
+rs2032622	TT	Relevant to haplogroup R1a1a
+rs2032644	CC	Relevant to haplogroup R1a1c
+rs2032655	GG	Relevant to haplogroup R1a1c
+rs150173	AA	Relevant to haplogroup R1b1
+rs1800865	TT	Relevant to haplogroup R1b1b2d
+rs20321	AA	Relevant to haplogroup R1b1b2e
+rs16981293	TT	Relevant to haplogroup R1b1b2g
+rs17222279	AA	Relevant to haplogroup R1b1b2g1
+rs20320	AA	Relevant to haplogroup T
+rs2032672	CC	Relevant to haplogroup T
+rs13447374	GG	Relevant to haplogroup T1
+rs2240017	CG	respond better to steroids
+rs1801253	CC	responds well to bucindolol; may also depend on rs1801252
+rs1799889	GG	risk for aneurysms?
+rs1982073	CC	risk genotype for several disorders
+rs1982073	CT	risk genotype for several disorders
+rs1982073	TT	risk genotype for several disorders
+rs17036314	CC	risk of progressing from IGT to T2D; reduced by exercise
+rs17036314	CG	risk of progressing from IGT to T2D; reduced by exercise
+rs2069912	CC	sepsis risk in East Asians
+rs2069912	CT	sepsis risk in East Asians
+rs10494366	TT	Shorter QT interval
+rs10918594	CC	Shorter QT interval
+rs16991615	AG	slight increase (11 months) in avg age at menopause
+rs1126809	AA	slight increase in skin cancer risk
+rs1126809	AG	slight increase in skin cancer risk
+rs13357391	CC	slightly earlier age at menarche
+rs1859345	CC	slightly earlier age at menarche
+rs12597511	CT	slightly higher blood pressure
+rs12597511	TT	slightly higher blood pressure
+rs1799969	AA	slightly higher breast cancer risk
+rs1799969	AG	slightly higher breast cancer risk
+rs16969968	AG	"slightly higher risk for nicotine dependence, lower risk for cocaine dependence"
+rs12050604	AA	slightly increased risk for lung cancer
+rs2295190	GT	Slightly increased risk for ovarian cancer in women
+rs2295190	TT	Slightly increased risk for ovarian cancer in women
+rs1522305	GG	slightly increased risk for schizophrenia
+rs12150220	AA	slightly increased risk for several autoimmune diseases
+rs12150220	AT	slightly increased risk for several autoimmune diseases
+rs12936511	CT	slightly increased suicide risk in males?
+rs12936511	TT	slightly increased suicide risk in males?
+rs1385699	CC	slightly less likely to go bald
+rs1467465	CC	slightly reduced breast cancer odds?
+rs1467465	CT	slightly reduced breast cancer odds?
+rs10492519	AG	somewhat higher risk for prostate cancer
+rs10492519	GG	somewhat higher risk for prostate cancer
+rs13149290	CC	somewhat higher risk for prostate cancer
+rs1545985	AG	somewhat higher risk for prostate cancer
+rs1545985	GG	somewhat higher risk for prostate cancer
+rs251177	CC	somewhat higher risk for prostate cancer
+rs251177	CT	somewhat higher risk for prostate cancer
+rs2187668	AG	"Somewhat increased autoimmune disorder (lupus, celiac disease) risk; 1 HLA-DRB1*0301 allele"
+rs2282679	AC	somewhat lower vitamin D levels
+rs1611115	TT	somewhat more associated with impulsiveness and adult ADHD
+rs2228000	TT	"statistically significant, but slight, increase in bladder cancer risk"
+rs2228001	AA	"statistically significant, but slight, increase in lung cancer risk"
+rs17646946	AA	straighter curl
+rs11803731	AA	straighter hair
+rs1799971	AG	"stronger cravings for alcohol. if alcoholic, naltrexone treatment 2x more successful"
+rs1234	AA	summary of something interesting
+rs1800584	AG	TPMT*4A heterozygote; possible issues detoxifying certain drugs
+rs1800584	AA	TPMT*4A homozygote; likely issues detoxifying certain drugs
+rs1805097	AA	twice as likely to reach extreme old age?
+rs1135824	GG	Two copies of CYP2D6*3B non-functioning variant
+rs1800562	AA	"Two copies of H36D, likely affected by hemochromatosis which may be serious if male or post-menopausal."
+rs1799945	GG	"Two copies of H36D, likely affected by mild form of hemochromatosis"
+rs1799807	AA	Typical BuChE
+rs2319818	AG	U179-
+rs2319818	GG	U179-
+rs2319818	AA	"U179+, Relevant to haplogroup I (Y-DNA)"
+rs11631797	AA	usually brown eye color
+rs11631797	AG	usually brown eye color
+rs2238289	CC	usually brown eye color
+rs2238289	CT	usually brown eye color
+rs2240203	AA	usually brown eye color
+rs2240203	AG	usually brown eye color
+rs1800054	CG	very slightly  increased risk (1.05) for breast cancer
+rs1800056	CT	very slightly  increased risk (1.05) for breast cancer
+rs1800057	CG	very slightly  increased risk (1.05) for breast cancer
+rs1800058	CT	very slightly  increased risk (1.05) for breast cancer
+rs12050604	AC	very slightly increased risk for lung cancer
+rs1801282	CG	watch out for high fat in diet
+rs1801282	GG	watch out for high fat in diet
+rs11260867	CG	weakly associated with increased cataract risk
+rs113993961	CC	Werner syndrome; homozygote for transversion mutation
+rs17822931	CC	wet earwax
+rs17822931	CT	wet earwax
